@@ -22,4 +22,6 @@ Run script with root permissions. (*hciconfig requires root permission on most d
 - [bayssmekanique](https://github.com/bayssmekanique)
 
 ## Copyright and License
-Copyright [Keiser Corporation](http://keiser.com/) under the [MIT license](LICENSE.md).
+Copyright 2015 [Keiser Corporation](http://keiser.com/).
+
+Licensed under the [MIT license](LICENSE.md).
