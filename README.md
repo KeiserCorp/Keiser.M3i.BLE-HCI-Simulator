@@ -18,9 +18,6 @@ Run script with root permissions. (*hciconfig requires root permission on most d
 
 `sudo ./M3i_Sim.sh`
 
-## Contributors
-- [bayssmekanique](https://github.com/bayssmekanique)
-
 ## Copyright and License
 Copyright 2015 [Keiser Corporation](http://keiser.com/).
 
