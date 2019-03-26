@@ -1,4 +1,5 @@
 # Keiser.M3i.BLE-HCI-Simulator
+⛔️ [DEPRECATED] This repository is no longer maintained.
 **Simulates an M3i for development and testing purposes.**
 
 Simulator uses a Linux Bash script which requires an HCI BLE device to operate.
